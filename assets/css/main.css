@@ -4052,7 +4052,7 @@ body.is-preload #sidebar nav ul li {
 	border: 1px solid #e74c3c;
 }
 
-#topBtn:active {
+#topBtn:active::after {
 	background: #e74c3c;
 	color: white;
 }
