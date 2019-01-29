@@ -3910,8 +3910,8 @@ input, select, textarea {
 	text-align: center;
   }
 
-  #topBtn:hover,
-  #topBtn:active {
+  #topBtn:active,
+  #topBtn:hover {
 	  background: white;
 	  color: #e74c3c;
 	  border: 1px solid #e74c3c;
