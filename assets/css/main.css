@@ -3916,7 +3916,7 @@ input, select, textarea {
 	  color: #e74c3c;
 	  border: 1px solid #e74c3c;
 	}
-#topBtn:valid {
+#topBtn:visited {
 	color: white;
 	background: #e74c3c;
 }
