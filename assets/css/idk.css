@@ -1,0 +1,27 @@
+/* IDK script */
+
+/* to the top button */
+
+#topBtn {
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	/* font-size: 22px; */
+	width: 40px;
+	height: 40px;
+	border-radius: 50px;
+	background: #e74c3c;
+	color: white;
+	border: none;
+	cursor: pointer;
+	display: none;
+	z-index: 1;
+	text-align: center;
+	line-height: 40px;
+}
+
+#topBtn:active {
+	background: #e74c3c;
+	color: white;
+}
+/* End to the top button */
