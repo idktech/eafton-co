@@ -3900,7 +3900,7 @@ input, select, textarea {
 	/* font-size: 22px; */
 	width: 40px;
 	height: 40px; 
-	border-radius: 8px;
+	border-radius: 50px;
 	background: #e74c3c;
 	color: white;
 	border: none;
