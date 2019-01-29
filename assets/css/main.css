@@ -4046,6 +4046,9 @@ body.is-preload #sidebar nav ul li {
 	color: white;
 	background: #e74c3c;
 }
+#topBtn:focus {
+	outline: none;
+}
 #topBtn:hover {
 	background: white;
 	color: #e74c3c;
