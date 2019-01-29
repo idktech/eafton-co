@@ -3908,6 +3908,7 @@ input, select, textarea {
 	display: none;
 	z-index: 1;
 	text-align: center;
+	line-height: 40px;
   }
 
   #topBtn:active,
