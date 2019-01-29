@@ -4042,14 +4042,18 @@ body.is-preload #sidebar nav ul li {
 	line-height: 40px;
 }
 
-#topBtn:active,
+#topBtn:visited {
+	color: white;
+	background: #e74c3c;
+}
 #topBtn:hover {
 	background: white;
 	color: #e74c3c;
 	border: 1px solid #e74c3c;
 }
 
-#topBtn:visited {
-	color: white;
+#topBtn:active {
 	background: #e74c3c;
+	color: white;
 }
+
