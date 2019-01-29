@@ -3908,6 +3908,11 @@ input, select, textarea {
 	display: none;
 	z-index: 1;
 	text-align: center;
-
-
   }
+
+  #topBtn:hover,
+  #topBtn:active {
+	  background: white;
+	  color: #e74c3c;
+	  border: 1px solid #e74c3c;
+	}
