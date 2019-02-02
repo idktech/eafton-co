@@ -9,7 +9,8 @@
 	width: 40px;
 	height: 40px;
 	border-radius: 50px;
-	background: #e74c3c;
+	/* background: #e74c3c; */
+	background-image: linear-gradient(to bottom right, #5e42a6, #b74e91);
 	color: white;
 	border: none;
 	cursor: pointer;
@@ -20,8 +21,8 @@
 }
 
 #topBtn:active {
-	background: #e74c3c;
-	color: white;
+	background: #ffffff;
+	color: #5e42a6;
 }
 /* End to the top button */
 
